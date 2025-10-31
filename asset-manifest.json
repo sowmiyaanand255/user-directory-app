@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sowmiyaanand255/user-directory-app/static/css/main.e6c13ad2.css",
+    "main.js": "/sowmiyaanand255/user-directory-app/static/js/main.f78e863d.js",
+    "index.html": "/sowmiyaanand255/user-directory-app/index.html",
+    "main.e6c13ad2.css.map": "/sowmiyaanand255/user-directory-app/static/css/main.e6c13ad2.css.map",
+    "main.f78e863d.js.map": "/sowmiyaanand255/user-directory-app/static/js/main.f78e863d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f78e863d.js"
+  ]
+}
